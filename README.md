@@ -1,3 +1,3 @@
 # Amazon_clone
 Project views
-https://prosenjit-mondol.github.io/Amazon_clone/
+https://pronad1.github.io/Amazon_clone/
